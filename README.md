@@ -28,6 +28,18 @@ Upload and download files through API endpoints.
 Basic authentication for API access.
 Error Handling:
 
+Make sure the following dependencies are installed on your system:
+
+Python: Version 3.7 or above
+Flask: Web framework
+SQLite: For database management
+Required Python Libraries:
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Flask-Migrate
+Werkzeug
+requests
 Proper error messages for unauthorized actions or invalid inputs.
 UI:
 
